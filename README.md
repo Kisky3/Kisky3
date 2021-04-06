@@ -1,6 +1,7 @@
 ### Hi, I am XiangYu(Kou) 👋
 
 😄 A passionate self-taught front-end developer from China.
+
 🔭 Now working in Tokyo.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kisky3)](https://github.com/anuraghazra/github-readme-stats)
