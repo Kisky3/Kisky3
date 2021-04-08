@@ -9,7 +9,7 @@
 
 🔭 Now working in Tokyo.
 
-### ** Github Stars:**
+### **Github Stars:**
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kisky3)](https://github.com/anuraghazra/github-readme-stats)
 
 
