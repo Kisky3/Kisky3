@@ -1,7 +1,7 @@
 ### Hi, I am [XiangYu(Kou)!](https://Kisky3.github.io) 👋
-<div style="width: 100%; background: pink">
+
 <a href="https://twitter.com/OtezpeRW1aJwJVp">
-  <img align="left" alt="XiangYu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  my twitter: <img align="left" alt="XiangYu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <br />
