@@ -3,11 +3,11 @@
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/OtezpeRW1aJwJVp?style=social)](https://twitter.com/OtezpeRW1aJwJVp)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Kisky3?label=follow&style=social)](https://github.com/Kisky3)
 
-A self-taught front-end developer from China.
+😄 A self-taught front-end developer from China.
 
-I’m currently learning AWS and CakePHP3
+🌱 I’m currently learning AWS and CakePHP3
 
-Now working in Tokyo.
+🔭 Now working in Tokyo.
 
 
 ### **Languages and Tools:**  
@@ -21,9 +21,6 @@ Now working in Tokyo.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisky3&layout=compact&show_icon=true&card_width=1000&hide_title=true)](https://github.com/Kisky3/github-readme-stats)
-
 </div>
 <!--
 **Kisky3/Kisky3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
