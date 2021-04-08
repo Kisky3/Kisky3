@@ -3,8 +3,6 @@
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/OtezpeRW1aJwJVp?style=social)](https://twitter.com/OtezpeRW1aJwJVp)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Kisky3?label=follow&style=social)](https://github.com/Kisky3)
 
-<br />
-
 😄 A self-taught front-end developer from China.
 
 🌱 I’m currently learning AWS and CakePHP3
