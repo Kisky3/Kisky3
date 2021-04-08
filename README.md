@@ -10,7 +10,7 @@
 🗼 Now working in Tokyo.
 
 ### **Github Stars:**
-[![Anurag's github stats]
+![Kisky3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kisky3&show_icons=true&theme=tokyonight&hide_title=true)
 
 
 ### **Languages and Tools:**  
