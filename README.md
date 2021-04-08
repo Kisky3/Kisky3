@@ -1,8 +1,8 @@
 ### Hi, I am [XiangYu(Kou)!](https://Kisky3.github.io) 👋
 
 <a href="https://twitter.com/OtezpeRW1aJwJVp">
-  my twitter: <img align="left" alt="XiangYu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+  <img align="left" alt="XiangYu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a> 
 
 <br />
 <br />
