@@ -28,14 +28,8 @@
 ***
 
 ### **Github Start:**  
-![Kisky3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kisky3&show_icons=true&theme=gotham&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisky3&show_icons=true&theme=gotham&layout=compact&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisky3&show_icons=true&layout=compact&show_icons=true&card_width=1000)
 ***
-
-### **Pinned Repo:**  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kisky3&repo=Kisky3.github.io&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kisky3&repo=Linebot&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
