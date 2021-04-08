@@ -1,9 +1,5 @@
 ### Hi, I am [XiangYu(Kou)!](https://Kisky3.github.io) 👋
 
-<a href="https://twitter.com/OtezpeRW1aJwJVp">
-  <img align="left" alt="XiangYu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a> 
-
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/OtezpeRW1aJwJVp?style=social)](https://twitter.com/OtezpeRW1aJwJVp)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Kisky3?label=follow&style=social)](https://github.com/Kisky3)
 
