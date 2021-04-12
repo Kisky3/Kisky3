@@ -27,7 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=fff)
 ![Graphql](https://img.shields.io/badge/-Graphql-333?style=flat-square&logo=Graphql&logoColor=#689F63)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![AWS](https://img.shields.io/badge/-AWS-2496ED?style=flat-square&logo=AWS&logoColor=fff)
+![CakePHP](https://img.shields.io/badge/-CakePHP-D3DC43.svg?logo=cakephp&style=flat)
 
 </div>
 <!--
