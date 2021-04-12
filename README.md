@@ -2,12 +2,12 @@
   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=kisky3" alt="kisky3" />
   </a>
-<p align="left">
-  <img width="495" alt="スクリーンショット 2021-04-13 8 39 28" src="https://user-images.githubusercontent.com/23165804/114475746-cd814b80-9c33-11eb-9499-24faf5bcaebb.png">
+<p align="center">
+  <img width="695" alt="スクリーンショット 2021-04-13 8 39 28" src="https://user-images.githubusercontent.com/23165804/114475746-cd814b80-9c33-11eb-9499-24faf5bcaebb.png">
   <!--
   <img src="https://user-images.githubusercontent.com/23165804/114425442-0ac5e900-9bf4-11eb-8aec-4a6509d45d42.gif" style="width: 150px" />-->
 </p>
-<p align="left">
+<p align="center">
   <code><i>Hello Programming</i>, <i>Hello World</i></code>
 </p>
 
