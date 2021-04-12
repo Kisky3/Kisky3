@@ -9,7 +9,7 @@
   <code><i>Hello Programming</i>, <i>Hello World</i></code>
 </p>
 
-😄 A self-taught front-end developer from China.
+😄 A self-taught front-end developer from China.Now Living in Tokyo.
 
 <!--
 ### **Github Stars:**
