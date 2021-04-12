@@ -2,19 +2,14 @@
   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=kisky3" alt="kisky3" />
   </a>
-
-<p align="center">
+<p align="left">
    <img src="https://user-images.githubusercontent.com/23165804/114425442-0ac5e900-9bf4-11eb-8aec-4a6509d45d42.gif" style="width: 150px" />
 </p>
-<p align="center">
+<p align="left">
   <code><i>Hello Programming</i>, <i>Hello World</i></code>
 </p>
 
 😄 A self-taught front-end developer from China.
-
-🌱 I’m currently learning AWS and CakePHP3
-
-🗼 Now working in Tokyo.
 
 <!--
 ### **Github Stars:**
