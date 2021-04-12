@@ -1,6 +1,10 @@
 ### Hi, I am [XiangYu(Kou)!](https://Kisky3.github.io) 👋
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/OtezpeRW1aJwJVp?style=social)](https://twitter.com/OtezpeRW1aJwJVp)
-[![GitHub Thaiane](https://img.shields.io/github/followers/Kisky3?label=follow&style=social)](https://github.com/Kisky3)
+  <a href="https://github.com/yutkat/yutkat/">
+    <img src="https://komarev.com/ghpvc/?username=kisky3" alt="kisky3" />
+  </a>
+  
+[![Twitter:](https://img.shields.io/twitter/followers/OtezpeRW1aJwJVp?style=social)](https://twitter.com/OtezpeRW1aJwJVp)
+[![GitHub:](https://img.shields.io/github/followers/kisky3?label=follow&style=social)](https://github.com/kisky3)
 
 <p align="center">
     <img src="https://s3.ax1x.com/2020/12/17/r809yV.gif" style="width: 150px" />
