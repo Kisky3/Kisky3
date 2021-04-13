@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/23165804/114425442-0ac5e900-9bf4-11eb-8aec-4a6509d45d42.gif" style="width: 150px" />-->
 </p>
 <p align="center">
-  <code><i>😄 A self-taught front-end developer from China</i>. <i>Now Living in Tokyo</i></code>
+  😄 <code><i> A self-taught front-end developer from China</i>. <i>Now Living in Tokyo</i></code>
 </p>
 
 
