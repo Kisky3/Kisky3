@@ -7,7 +7,7 @@
 
 </p>
 <p align="center">
-  😄 <code><i> A self-taught front-end developer from China</i>. <i>Now Living in Tokyo</i></code>
+  😄 <code><i> A self-taught front-end developer from China</i>. <i> Now working in Tokyo!</i></code>
 </p>
 
 
