@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   😄 <code>継続は力なり、Done is better than perfect </code> </br>
-   <i> A self-taught front-end developer from China</i>. <i> Now working in Tokyo!</i>
+   A self-taught front-end developer from China</i>. <i> Now working in Tokyo! 
 </p>
 
 
