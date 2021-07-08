@@ -8,7 +8,7 @@
   
 <p align="center">
 <img width="100%" alt="2021-04-13 13 11 13" src="https://user-images.githubusercontent.com/23165804/115561630-b657f300-a2f0-11eb-8f6c-bb30b7d52b0c.gif"
-
+<span>Big sister is watching you. ⚡ </span>
 </p>
 
 
