@@ -1,4 +1,9 @@
 ### Hi, I am [XiangYu(Kou)!](https://Kisky3.github.io)
+Welcome to my github! (* ‘ᵕ’ )ｲ
+
+I want to be a good front end developer who can speak three languages fluently ( Mandarin, English and Japanese).
+
+
 <a href="https://github.com/Kisky3/Kisky3/">
     <img src="https://komarev.com/ghpvc/?username=Kisky3" alt="Kisky3" />
 </a>
