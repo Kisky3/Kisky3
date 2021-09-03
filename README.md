@@ -2,13 +2,13 @@
 <a href="https://github.com/Kisky3/Kisky3/">
     <img src="https://komarev.com/ghpvc/?username=Kisky3" alt="Kisky3" />
 </a>
+ <a href="http://twitter.com/koko01260126">
+   <img height="20" src="https://img.shields.io/twitter/follow/koko01260126?label=Twitter&logo=twitter&style=flat" />
+</a>
 
 Welcome to my github! (※ 'ᵕ' )ｲ
 
-<!-- <a href="http://twitter.com/koko01260126">
-   <img height="20" src="https://img.shields.io/twitter/follow/koko01260126?label=Twitter&logo=twitter&style=flat" />
-</a>
-  
+<!--  
 <p align="center">
 <img width="100%" alt="2021-04-13 13 11 13" src="https://user-images.githubusercontent.com/23165804/115561630-b657f300-a2f0-11eb-8f6c-bb30b7d52b0c.gif"
 <span>Big sister is watching you. ⚡ </span>
