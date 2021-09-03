@@ -1,12 +1,13 @@
 ### Hi, I am [XiangYu(Kou)!](https://Kisky3.github.io)
+<a href="https://github.com/Kisky3/Kisky3/">
+    <img src="https://komarev.com/ghpvc/?username=Kisky3" alt="Kisky3" />
+</a>
+
 Welcome to my github! (* ‘ᵕ’ )ｲ
 
 I want to be a good front end developer who can speak three languages fluently ( Mandarin, English and Japanese).
 
 
-<a href="https://github.com/Kisky3/Kisky3/">
-    <img src="https://komarev.com/ghpvc/?username=Kisky3" alt="Kisky3" />
-</a>
 <!-- <a href="http://twitter.com/koko01260126">
    <img height="20" src="https://img.shields.io/twitter/follow/koko01260126?label=Twitter&logo=twitter&style=flat" />
 </a>
