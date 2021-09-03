@@ -1,4 +1,4 @@
-### Hi, I am [XiangYu(Kou)!](https://Kisky3.github.io)
+### Hi, I am [XiangYu!](https://Kisky3.github.io)
 <a href="https://github.com/Kisky3/Kisky3/">
     <img src="https://komarev.com/ghpvc/?username=Kisky3" alt="Kisky3" />
 </a>
