@@ -3,9 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=Kisky3" alt="Kisky3" />
 </a>
 
-Welcome to my github! (* ‘ᵕ’ )ｲ
-I want to be a good front end developer who can speak three languages fluently ( Mandarin, English and Japanese).
-
+Welcome to my github! (※ 'ᵕ' )ｲ
 
 <!-- <a href="http://twitter.com/koko01260126">
    <img height="20" src="https://img.shields.io/twitter/follow/koko01260126?label=Twitter&logo=twitter&style=flat" />
