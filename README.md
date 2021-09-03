@@ -4,7 +4,6 @@
 </a>
 
 Welcome to my github! (* ‘ᵕ’ )ｲ
-
 I want to be a good front end developer who can speak three languages fluently ( Mandarin, English and Japanese).
 
 
