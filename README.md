@@ -14,7 +14,7 @@
 </p> -->
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kisky3&theme=solarized)&nbsp;&nbsp;
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kisky3&theme=solarized)&nbsp;&nbsp; -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kisky3&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kisky3&theme=solarized)
 
