@@ -1,4 +1,4 @@
-# Hi there！ I am [XiangYu](https://Kisky3.github.io)&nbsp;&nbsp;<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
+# Hi there！ I am [XiangYu](https://Kisky3.github.io)&nbsp;&nbsp;<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 There is the land where I share toys and take a break.
 Nice to meet you here. :3
 
@@ -20,7 +20,7 @@ Nice to meet you here. :3
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kisky3&theme=solarized)
 
 <details>
-<summary>Click to see more about my coding life</summary>
+<summary>Click to see more about my coding life </summary>
 <br />
     
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kisky3&theme=solarized) 
