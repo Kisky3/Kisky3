@@ -16,7 +16,7 @@ Nice to meet you here. :3
 <summary>💬 Click to see more about my coding life </summary>
 <br />
  <div>
-    <p>Front-end Skills:</p>
+    <p>Front End Skills:</p>
     <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
     <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat&logoColor=4FC08D">
     <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
