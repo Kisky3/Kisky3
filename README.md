@@ -10,11 +10,9 @@ Nice to meet you here. :3
 </a>
 
 <br />
-<br />
-<details>
-<summary>💬 Click to see more about my coding life </summary>
-<br />
-    
+
+####  About my coding life 💬
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kisky3&theme=solarized)&nbsp;&nbsp;
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kisky3&theme=solarized)
     
