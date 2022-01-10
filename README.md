@@ -13,9 +13,9 @@ Nice to meet you here. :3
 
 ####  About my coding life 💬
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kisky3&theme=solarized)&nbsp;&nbsp;
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kisky3&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kisky3&theme=solarized)     
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kisky3&theme=default)&nbsp;&nbsp;
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kisky3&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kisky3&theme=default)     
  <div>
     <p>Front End Skills:</p>
     <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
